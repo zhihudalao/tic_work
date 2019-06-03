@@ -1,0 +1,2 @@
+PathPlanner/src:motorcontrol:test
+-DCATKIN_DEVEL_PREFIX=/home/lc/tic_work/devel -DCMAKE_INSTALL_PREFIX=/home/lc/tic_work/install -G Unix Makefiles

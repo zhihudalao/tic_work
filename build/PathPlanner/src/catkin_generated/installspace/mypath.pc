@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/tic_work/install
+
+Name: mypath
+Description: Description of mypath
+Version: 0.0.0
+Cflags: -I/home/ubuntu/tic_work/install/include
+Libs: -L/home/ubuntu/tic_work/install/lib -lmypath
+Requires: 

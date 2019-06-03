@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/PathPlanner/devel
+
+Name: mypath
+Description: Description of mypath
+Version: 0.0.0
+Cflags: -I/home/ubuntu/PathPlanner/src/include
+Libs: -L/home/ubuntu/PathPlanner/devel/lib -lmypath
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/tic_work/install
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/tic_work/install/lib 
+Requires: 

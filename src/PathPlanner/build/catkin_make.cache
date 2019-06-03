@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/PathPlanner/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/PathPlanner/install -G Unix Makefiles

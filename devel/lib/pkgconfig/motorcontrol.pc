@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/tic_work/devel
+
+Name: motorcontrol
+Description: Description of motorcontrol
+Version: 0.0.0
+Cflags: -I/home/ubuntu/tic_work/devel/include
+Libs: -L/home/ubuntu/tic_work/devel/lib 
+Requires: message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/PathPlanner/install
+
+Name: mypath
+Description: Description of mypath
+Version: 0.0.0
+Cflags: -I/home/ubuntu/PathPlanner/install/include
+Libs: -L/home/ubuntu/PathPlanner/install/lib -lmypath
+Requires: 
